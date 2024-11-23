@@ -4,7 +4,7 @@ This script fetches the `token`, `user_id`, and `org_id` from the OpenSolar API 
 
 ## Prerequisites
 - Python 3.x
-- `requests` library (`pip install requests`)
+- `requests` and `pandas`   library (`pip install requests pandas`)
 
 ## Usage
 1. Create a `credentials.txt` file in the project directory with the following content:
